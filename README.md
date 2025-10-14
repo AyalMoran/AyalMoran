@@ -13,7 +13,7 @@
 ###  About Me
 
 Yo, software engineer. C, C++, and Python. What else to say?
-I like real-time systems, embedded development, and anything audio tbh.
+I like real-time systems, embedded development, and anything audio tbh.  
 I like understanding how things work; The universe, programs, operating systems and well... Arch Linux.  
 
 ---
