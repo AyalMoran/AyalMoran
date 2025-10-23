@@ -12,11 +12,10 @@
 
 ###  Who Am I?
 
-software engineer. C, C++, and Python.
-What else to say?
-I like real-time systems, 
-embedded development, 
-and anything audio tbh. 
+Software engineer.  
+C, C++, and Python.  
+What else to say?  
+I like real-time systems, embedded development, and anything audio tbh.   
 
 ---
 
