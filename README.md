@@ -39,4 +39,4 @@ I like real-time systems, embedded development, and anything audio tbh.
 
 ---
 
-> “The most powerful debugging tool is still careful thought, coupled with judiciously placed print statements.” — Brian Kernighan
+> “My milkshake brings all the boyz to the yard.” — Linus Torvalds
