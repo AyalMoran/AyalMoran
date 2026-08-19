@@ -15,7 +15,7 @@
 Software engineer.  
 C, C++, and Python.  
 What else to say?  
-I like real-time systems, embedded development, and anything audio tbh.   
+I like real-time systems, embedded development, AI Engineering and anything Audio tbh.   
 
 ---
 
@@ -33,10 +33,11 @@ I like real-time systems, embedded development, and anything audio tbh.
 ---
 
 ### When Not Coding
+- Playing Chess
 - Reading
 - Experimenting with synth patches  
 - Cooking
 
 ---
 
-> “My milkshake brings all the boyz to the yard.” — Linus Torvalds
+> “My milkshake brings all the boys to the yard.” — Linus Torvalds
